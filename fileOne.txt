@@ -3,7 +3,10 @@ Line 2
 From git.online
 Extra: Line 4
 Extra: Line 5
+<<<<<<< HEAD
 
 Git GUI:
 Starting...
 Finally
+=======
+>>>>>>> parent of 12bfe4b... git GUI lines added
