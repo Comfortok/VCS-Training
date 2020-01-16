@@ -20,3 +20,5 @@ Line 3
 
 commit non ff merge"
 Line4
+
+Conflict text in master
