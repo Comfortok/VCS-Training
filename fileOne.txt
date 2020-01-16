@@ -10,3 +10,7 @@ Starting...
 Finally
 =======
 >>>>>>> parent of 12bfe4b... git GUI lines added
+
+Feature branch:
+Line 1
+Line 2
