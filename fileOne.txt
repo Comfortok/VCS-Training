@@ -17,3 +17,6 @@ Line 2
 
 commit 1.2:
 Line 3
+
+commit non ff merge"
+Line4
