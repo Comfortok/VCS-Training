@@ -25,3 +25,5 @@ Line4
 Conflict text in master
 
 feature conflict text
+
+tag text
